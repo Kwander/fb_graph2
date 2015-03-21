@@ -22,7 +22,7 @@ See [fb_graph2 Wiki](https://github.com/nov/fb_graph2/wiki).
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/fb_graph2/fork )
+1. Fork it ( https://github.com/[my-github-username]/fb_graph2/fork ) or use "Fork" button bellow the header.
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
